@@ -6,3 +6,4 @@ dogs.shift # The shift method will remove the first element of this array ("Char
 dog_ages[2] # The element in the 2nd index position of this array is 16
 dogs[1] # The element in the index position of 1 of this array is "Kamee"
 dog_prices[4] # The element in the index position of 4 (which is also the last element) is 10.15
+dogs.insert(1, "Turbo") # The insert method will insert the new element given before the index position provided, so dogs = ["Charlie", "Turbo", "Kamee", "Ozzie", "Leo", "Mia"]
